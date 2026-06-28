@@ -1,1 +1,1 @@
-# 'Curn Detection Classification Projects'
+# 'Churn Detection Classification Projects'
